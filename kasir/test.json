@@ -1,0 +1,20 @@
+[
+  {
+    "userId": 1,
+    "nama": "micin",
+    "harga": "3000/pcs ",
+    "diskripsi": "meningkatkan daya ingat"
+  },
+  {
+    "userId": 2,
+    "nama": "daia",
+    "harga": "10000/pcs ",
+    "diskripsi": "wangi dan bersih"
+  },
+  {
+    "userId": 3,
+    "nama": "samyang",
+    "harga": "5000/pcs ",
+    "diskripsi": "mie ala korea"
+  }
+]
